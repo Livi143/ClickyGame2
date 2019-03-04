@@ -1,0 +1,32 @@
+{
+  "name": "ClickyGame2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Livi143/ClickyGame2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Livi143/ClickyGame2/issues"
+  },
+  "homepage": "https://github.com/Livi143/ClickyGame2#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "path": "^0.12.7",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "react-inlinesvg": "^0.8.4",
+    "react-responsive-modal": "^3.6.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^2.1.5",
+    "reactstrap": "^7.1.0"
+  }
+}
